@@ -1,2 +1,3 @@
-# project0cs50
-This website is for havard cs50 project0 
+# Project 0
+
+Web Programming with Python and JavaScript
